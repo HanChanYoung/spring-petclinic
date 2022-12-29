@@ -1,5 +1,5 @@
 app:
-  name: asher-petclinic-k8s
+  name: petclinic-k8s
   profile:
   replicaCount: 1
   hostAliases: []
